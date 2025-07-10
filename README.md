@@ -1,6 +1,6 @@
-# Base for Music Assessment
+# Data Project
 
-Ce projet à été réalisé dans le cadre d'un test technique de Backend et Data Engineer de Base for Music présenté dans le fichier Backend _ Data Engineering développeur - Test technique.pdf
+Ce projet à été réalisé dans d'une démonstration technique de Backend et Data Engineer présenté dans le fichier Backend _ Data Engineering développeur - Test technique.pdf
 
 ## Objectif
 
