@@ -18,6 +18,6 @@ Présenter les résultats d'une analyse de données.
 - Lecture de Démonstration technique – Backend _ Data Engineering.pdf
 - Lecture de CER 1.0 Aller.pdf
 - Lecture de Planning prévisionnel.pdf
-- Lecture de Assessment.ipynb avec Anaconda et Jupyter Notebook (lecture croisée avec CER 1.0 Retour.pdf)
+- Lecture de Assessment.ipynb avec Anaconda et Jupyter Notebook (Export_Notebook.html est une version préchargée des résultats) (lecture croisée avec CER 1.0 Retour.pdf)
 - Lecture de CER 1.0 Retour.pdf (lecture croisée avec Assessment.ipynb)
 - Lecture de Planning réel.pdf
